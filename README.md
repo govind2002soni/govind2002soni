@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Govind soni
-- 👀 I’m interested in Graphic designing, web development, python, etc.
+- 👀 I’m interested in UX/UI Designing, Graphic designing, python, web development, etc.
 - 🌱 I’m currently a student student at JEC jabalpur pursuing my B.tech degree in Computer science engineering.
 
 <!---
